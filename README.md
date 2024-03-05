@@ -11,7 +11,7 @@ El objetivo es realizar una simulación de la ejecución de múltiples procesos 
 
 ## Cómo usar
 1. Clona este repositorio en tu máquina local:
-git clone https://github.com/tu_usuario/simulacion-sistema-operativo.git
+git clone (https://github.com/Emadlgg/hoja-de-trabajo-5.git)
 
 2. Ejecuta el script principal para realizar la simulación:
 ## Resultados
